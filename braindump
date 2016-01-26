@@ -1,0 +1,43 @@
+Idea: a fixed-size "Rosetta Stone"-like project for showing syntactic
+differences between popular programming languages.
+
+The basic idea is that of rosettacode.org, but with important differences:
+
+- Fixed size, so that in a paper form, the same language is in the same spot on
+  every page.
+
+- A very limited number of languages, also fixed
+
+- Show only basic syntax, not entire solutions to hard problems, and show only
+  equivalent code
+
+The main goal is to have something that people can browse through, to get a
+feel for Perl 6 as a language, so Perl 6 gets a special treatment: it doesn't
+just get code, it also gets some room for explanatory text.
+
+The other languages selected for the project should be mostly similar in
+linguistic feature set, to optimize the number of translations, but preferably
+dissimilar when it comes to basic syntax, to make the differences stand out
+more. More important, though, is that only very popular languages are chosen,
+to maximize the audience.
+
+This project is specifically NOT intended to become a wiki or an interactive
+system, although a wiki could be used to gather contributions, and interactive
+versions could be made afterwards. The project primarily revolves around
+something that could be published in book form.
+
+Another thing that it's NOT: a TIMTOWTDI showcase. While it's an explicit goal
+to include as many Perl 6 language features as possible, I believe it's not
+a good idea to overwhelm people with 5 ways to call a method, if only 2 are
+actively used by the majority of Perl 6 programmers.
+
+The list of languages should at least include Perl 5 and Perl 6.
+
+Inspiration can be drawn from tutorial books, like Beginning Perl, from 5-to-6
+guides, and of course, rosettacode.org
+
+At this moment, I'm using "Philae Code" as the working name for the project.
+The Rosetta stone had 3 languages, the Philae obelisk had 2. The number of
+languages I currently think would be the most nice is 5 or 7. I have a
+preference for an odd number because that allows for a 2 row table with one
+cell left for explanatory text.
